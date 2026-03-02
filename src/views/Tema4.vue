@@ -17,10 +17,10 @@
             p.mb-0 Dentro del diseño de modas, la moda se comprende como un fenómeno social y cultural que trasciende la noción de un conjunto aislado de prendas, en la medida en que expresa formas de identidad, pertenencia y contexto. Desde esta perspectiva, se plantea que la moda no se limita a la presencia de tendencias o elementos materiales, sino que funciona como un entramado construido socialmente a partir de normas y acuerdos sobre lo que se considera pertinente o aceptado en determinados entornos (Kawamura, 2005).
 
     
-    p.mb-5 A partir de este enfoque, el sector reconoce la moda como un sistema articulado, razón por la cual distintos aportes teóricos emplean la denominación sistema moda para describir su funcionamiento integral.
+    p.mb-5(data-aos="fade-left") A partir de este enfoque, el sector reconoce la moda como un sistema articulado, razón por la cual distintos aportes teóricos emplean la denominación sistema moda para describir su funcionamiento integral.
 
 
-    .cajon.color-secundario.p-4.p-lg-5
+    .cajon.color-secundario.p-4.p-lg-5(data-aos="fade-right")
       p.mb-0 #[b Sistema moda:] se concibe como un conjunto interrelacionado que abarca no solo las prendas de vestir, sino también accesorios, complementos y calzado, además de procesos creativos, productivos y de circulación que se transforman de acuerdo con dinámicas culturales, tecnológicas y de mercado. Esta condición sistémica explica su capacidad de adaptación continua frente a cambios en hábitos de uso, contextos sociales y variaciones en las preferencias colectivas.
 
     
@@ -29,15 +29,15 @@
       h2 4.1 Universos del vestuario
 
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         img(src='@/assets/curso/tema4/2.png', alt='Texto que describa la imagen')
 
     
-    p.mb-5 La organización de los universos de vestuario permite relacionar el propósito de uso de la prenda con sus características funcionales, formales y contextuales. Esta clasificación facilita la toma de decisiones en procesos de diseño, patronaje y selección de materiales, al considerar las condiciones en las que la prenda será utilizada.
+    p.mb-5(data-aos="fade-right") La organización de los universos de vestuario permite relacionar el propósito de uso de la prenda con sus características funcionales, formales y contextuales. Esta clasificación facilita la toma de decisiones en procesos de diseño, patronaje y selección de materiales, al considerar las condiciones en las que la prenda será utilizada.
 
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         .titulo-sexto
           h5 Tabla 1. 
@@ -88,20 +88,20 @@
                 td Pijamas y prendas destinadas al descanso.
         figcaption Fuente: SENA, (2025)
 
-    .cajon.color-secundario.t4.p-4.p-lg-5.mb-5
+    .cajon.color-secundario.t4.p-4.p-lg-5.mb-5(data-aos="fade-right")
       p.mb-0 #[b Ocasión de uso:] contempla los posibles escenarios en los que una persona o grupos de personas usan una prenda de acuerdo al contexto, esto es pactado culturalmente y hace parte de la identidad culturar individual y grupal.
 
     
-    p.mb-4 A continuación, encontrará ejemplos de prendas de moda casual en la línea femenina.  
+    p.mb-4(data-aos="fade-left") A continuación, encontrará ejemplos de prendas de moda casual en la línea femenina.  
 
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-6.mb-lg-0.mb-4
         .titulo-sexto
           h5 Figura 17. 
           | Prendas casuales en algodón
-        .bg2.p-4
-          img.img-t.img-a.my-lg-5.mb-lg-5.mt-lg-5(src='@/assets/curso/tema4/3.png' alt='Conjunto de prendas y calzado de uso cotidiano compuesto por blusa, camisas, vestido, camiseta a rayas, pantalón, jeans y zapatos. Las piezas corresponden a vestuario casual organizado por tipologías superiores, inferiores y complementos.')
+        .bg2.he4.p-4
+          img.img-t.img-a(src='@/assets/curso/tema4/3.png' alt='Conjunto de prendas y calzado de uso cotidiano compuesto por blusa, camisas, vestido, camiseta a rayas, pantalón, jeans y zapatos. Las piezas corresponden a vestuario casual organizado por tipologías superiores, inferiores y complementos.')
       .col-lg-6
         .titulo-sexto
           h5 Figura 18. 
@@ -110,22 +110,22 @@
           img.img-t.img-a(src='@/assets/curso/tema4/4.png' alt='Conjunto de vestuario casual compuesto por chaqueta corta de mezclilla, vestido largo de tirantes, bolso de mano, aretes y sandalias. La combinación organiza prendas y accesorios para un atuendo de uso diario con enfoque funcional y estilístico.')
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-lg-0.mb-4
         .titulo-sexto
           h5 Figura 19. 
           | Prendas casuales en tejido de poliéster
         .bg2.p-4
-          img.img-t.img-a.my-lg-5.mb-lg-5.mt-lg-5(src='@/assets/curso/tema4/5.png' alt='Conjunto casual compuesto por chaleco acolchado, camiseta a rayas, prenda inferior ajustada y botas, organizado como atuendo de uso cotidiano.')
+          img.img-t.img-a(src='@/assets/curso/tema4/5.png' alt='Conjunto casual compuesto por chaleco acolchado, camiseta a rayas, prenda inferior ajustada y botas, organizado como atuendo de uso cotidiano.')
       .col-lg-6
         .titulo-sexto
           h5 Figura 20. 
           | Prendas casuales de sudadera y pantalón
-        .bg2.p-4
+        .bg2.he41.p-4
           img.img-t.img-a(src='@/assets/curso/tema4/6.png' alt='Conjunto casual compuesto por prenda superior de manga amplia, pantalón holgado, bolso, accesorios y calzado deportivo, organizado como atuendo de uso cotidiano.')
       
 
-    .tarjeta.color-primario.des.p-4.mb-0(data-aos="fade-left")
+    .tarjeta.color-primario.des.p-4.mb-0(data-aos="fade-right")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img.img-a.img-t.mx-lg-2(src="@/assets/curso/tema4/7.svg")
@@ -145,10 +145,10 @@
       h2 4.2 Gamas de mercados
 
     
-    p.mb-5 Las gamas de mercado se clasifican de acuerdo a líneas de mercado dentro del sector e industria de la moda, en la siguiente figura se presentan las principales categorías y su relación dentro del mercado.
+    p.mb-5(data-aos="fade-left") Las gamas de mercado se clasifican de acuerdo a líneas de mercado dentro del sector e industria de la moda, en la siguiente figura se presentan las principales categorías y su relación dentro del mercado.
 
 
-    .row.justify-content-center.align-items-center.mb-2
+    .row.justify-content-center.align-items-center.mb-2(data-aos="fade-right")
       .col-lg-10
         .titulo-sexto
           h5 Figura 21. 
@@ -157,7 +157,7 @@
       .row.justify-content-center.align-items-center.mb-0
         .col-lg-7
           img.img-a.img-t(src='@/assets/curso/tema4/9.svg' alt='Esquema jerárquico del sistema de la moda organizado en forma de pirámide, que clasifica desde alta costura y lujo hasta mercado masivo y moda económica según nivel de exclusividad y producción.')
-        .col-lg-5
+        .col-lg-5.d-none.d-lg-block
           img.img-t.img-a(src='@/assets/curso/tema4/8.png' alt='Esquema jerárquico del sistema de la moda organizado en forma de pirámide, que clasifica desde alta costura y lujo hasta mercado masivo y moda económica según nivel de exclusividad y producción.')
           
 
@@ -166,16 +166,16 @@
       h3.mb-0 Tipología de prendas femeninas
 
 
-    p.mb-5 Las tipologías de las prendas se clasifican en función de la estructura corporal. Por esta razón, para completar la etapa de conceptualización, resulta necesario realizar una clasificación que permita identificar las partes de las prendas según la arquitectura del cuerpo. En este sentido, se presenta el siguiente video.
+    p.mb-5(data-aos="fade-right") Las tipologías de las prendas se clasifican en función de la estructura corporal. Por esta razón, para completar la etapa de conceptualización, resulta necesario realizar una clasificación que permita identificar las partes de las prendas según la arquitectura del cuerpo. En este sentido, se presenta el siguiente video.
 
   
-    h4.mb-4 Categoría de prendas - tipologías - bitácora de formas
+    h4.mb-4(data-aos="fade-left") Categoría de prendas - tipologías - bitácora de formas
 
 
-    p.mb-4 Se invita a consultar el video “Categoría de prendas - tipologías - bitácora de formas”.
+    p.mb-4(data-aos="fade-right") Se invita a consultar el video “Categoría de prendas - tipologías - bitácora de formas”.
     
 
-    .row.justify-content-center.align-items-center.mb-0        
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")      
       .col-lg-12
         figure
           .video

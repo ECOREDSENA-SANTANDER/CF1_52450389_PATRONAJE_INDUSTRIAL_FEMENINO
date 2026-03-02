@@ -4,7 +4,8 @@
       <rect id="Rectángulo_454804" data-name="Rectángulo 454804" width="261" height="145" rx="25" transform="translate(1018.059 5183)" fill="#cdbfdc"/>
     </clipPath>
   </defs>
-  <g id="Grupo_1204662" data-name="Grupo 1204662" transform="translate(-1019 -5647.512)">
+  <g id="Grupo_1204659" data-name="Grupo 1204659" transform="translate(-1019 -5647.511)">
+    <rect id="Rectángulo_454987" data-name="Rectángulo 454987" width="261" height="145" rx="25" transform="translate(1019 5647.511)" fill="#cdbfdc"/>
     <g id="Enmascarar_grupo_1119147" data-name="Enmascarar grupo 1119147" transform="translate(0.941 464.512)" clip-path="url(#clip-path)">
       <g id="Patrones" transform="translate(770.584 5116.8)">
         <path id="Trazado_1268717" data-name="Trazado 1268717" d="M2818.177,1274.052c1.086-.344,1.961,1.407,1.028,2.055-.523.42-1.09.773-1.6,1.211a3.785,3.785,0,0,0-1.063-.929c-.25-.152-.5-.3-.746-.447C2816.689,1275.428,2817.225,1274.454,2818.177,1274.052Z" transform="translate(-2431.886 -1144.29)" fill="#d6d2c9"/>

@@ -18,8 +18,10 @@
             p.mb-0 La estructura del cuerpo se comprende a partir de su arquitectura, entendida como la relación entre composición, organización y movimiento. Este enfoque resulta fundamental para sustentar teóricamente el patronaje y las distintas metodologías aplicadas en su desarrollo, en tanto permite analizar el cuerpo como un sistema funcional y dinámico.
 
     
-    p.mb-4 Desde esta perspectiva, la estructura corporal se define por la organización y disposición de los segmentos corporales en función de principios biomecánicos (Norton, 2019). Dichos principios se relacionan con el movimiento y con factores anatómicos, morfológicos y posturales que inciden directamente en la estabilidad, la funcionalidad y la ergonomía del cuerpo en diversos contextos de uso, entre ellos, el diseño y la construcción de prendas de vestir.
-    p.mb-5 A continuación, podrá encontrar los conceptos relacionados con la estructura corporal. 
+    p.mb-4(data-aos="fade-left") Desde esta perspectiva, la estructura corporal se define por la organización y disposición de los segmentos corporales en función de principios biomecánicos (Norton, 2019). Dichos principios se relacionan con el movimiento y con factores anatómicos, morfológicos y posturales que inciden directamente en la estabilidad, la funcionalidad y la ergonomía del cuerpo en diversos contextos de uso, entre ellos, el diseño y la construcción de prendas de vestir.
+    
+    
+    p.mb-5(data-aos="fade-right") A continuación, podrá encontrar los conceptos relacionados con la estructura corporal. 
 
 
     .titulo.mb-5(data-aos="fade-left")
@@ -27,12 +29,12 @@
       h3.mb-0 Antropometría
 
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+      .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/tema1/3.png' alt='AvatarTop')
       .col-lg-9
         .row.justify-content-center.align-items-center.mb-4
-          .col-lg-5
+          .col-lg-5.d-none.d-lg-block
             img(src='@/assets/curso/tema1/4.png' alt='AvatarTop')
           .col-lg-7
             .bg1.p-4
@@ -40,7 +42,7 @@
         p.mb-0 En el ámbito de la elaboración de vestuario, la antropometría se aplica mediante el análisis ergonómico con el propósito de desarrollar prendas que favorezcan la movilidad, el ajuste adecuado y la funcionalidad durante el uso, garantizando coherencia entre las características corporales y las exigencias técnicas del patronaje industrial.
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .titulo-sexto
           h5 Figura 1. 
@@ -49,19 +51,19 @@
           img.img-a.img-t(src='@/assets/curso/tema1/5.svg' alt='Esquema antropométrico con tres figuras humanas: dos de persona adulta y una infantil. Se indican proporciones y medidas del cuerpo mediante líneas y números que señalan alturas, anchos y distancias entre segmentos corporales.')
           
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8
-        .titulo.mb-5(data-aos="fade-left")
+        .titulo.mb-5
           img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
           h3.mb-0 Anatomía
         p.mb-4 La anatomía se comprende como una rama de la biología dedicada al estudio de la estructura de los seres vivos, con énfasis en la forma, la localización y la relación funcional entre órganos y sistemas (Cabrera, 2016). Este campo aporta fundamentos conceptuales para interpretar la organización corporal desde una perspectiva sistémica.
         .bg3.p-4
           p.mb-0.mx-lg-4 En el contexto de la elaboración de prendas de vestir, el conocimiento anatómico resulta pertinente porque orienta los procesos de adaptación, ajuste y funcionalidad de las prendas respecto a la configuración del cuerpo humano, favoreciendo soluciones de patronaje que respondan de manera coherente a sus características estructurales y de movimiento.
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/tema1/6.png' alt='AvatarTop')
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .titulo-sexto
           h5 Figura 2. 
@@ -70,22 +72,24 @@
           img.img-a.img-t(src='@/assets/curso/tema1/7.png' alt='Representación anatómica del cuerpo humano con disposición frontal y posterior. Se distinguen los principales grupos musculares organizados desde la cabeza hasta los pies para el estudio de la estructura corporal y sus zonas funcionales.')
           
 
-    .titulo.mb-5(data-aos="fade-left")
+    .titulo.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Biomecánica
 
     
-    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
-      .col-lg-5.d-none.d-lg-block
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      .col-lg-5.col-md-8.col-10.mb-lg-0.mb-4
         img(src='@/assets/curso/tema1/8.png' alt='AvatarTop')
       .col-lg-7
         .row.justify-content-center.align-items.mb-3
-          .col-lg-2
+          .col-lg-2.d-none.d-lg-block.my-lg-1
             img.img-t.img-a.mb-lg-0.mb-4(src='@/assets/curso/tema1/9.svg' alt='AvatarTop')
           .col-lg-10
             p.mb-0 La biomecánica se reconoce como la disciplina encargada de estudiar los principios mecánicos que regulan el movimiento y la estructura del cuerpo humano, mediante el análisis de las fuerzas internas y externas que actúan sobre este y la respuesta del sistema musculoesquelético ante dichas cargas. Sus aplicaciones se extienden a campos como el diseño de prótesis, el deporte y los procesos de rehabilitación, en los que se requiere comprender el comportamiento funcional del cuerpo en acción.
         p.mb-0 En el ámbito del diseño y la construcción de prendas de vestir, la articulación entre anatomía y biomecánica se fundamenta en principios de adaptación, ajuste y funcionalidad, los cuales permiten considerar el cuerpo como un sistema dinámico que se desplaza, flexiona y requiere rangos de movimiento específicos.
-    p.mb-5 Desde esta perspectiva, la comprensión integrada de la anatomía, la biomecánica y la ergonomía corporal posibilita el desarrollo de prendas que respondan de manera coherente a las necesidades físicas de las personas usuarias, favoreciendo una interacción adecuada entre el cuerpo y el vestuario, en términos de confort, movilidad y desempeño funcional (Sierra y Mosquera, 2013).
+    
+    
+    p.mb-5(data-aos="fade-right") Desde esta perspectiva, la comprensión integrada de la anatomía, la biomecánica y la ergonomía corporal posibilita el desarrollo de prendas que respondan de manera coherente a las necesidades físicas de las personas usuarias, favoreciendo una interacción adecuada entre el cuerpo y el vestuario, en términos de confort, movilidad y desempeño funcional (Sierra y Mosquera, 2013).
 
 
     .titulo.mb-5(data-aos="fade-left")
@@ -93,10 +97,10 @@
       h3.mb-0 Morfología
 
     
-    p.mb-5 La morfología del cuerpo humano hace referencia a la forma y estructura del cuerpo a partir de la relación y disposición de sus partes, esta rama resulta esencial en otras áreas y disciplinas como la anatomía, y fisiología.  
+    p.mb-5(data-aos="fade-right") La morfología del cuerpo humano hace referencia a la forma y estructura del cuerpo a partir de la relación y disposición de sus partes, esta rama resulta esencial en otras áreas y disciplinas como la anatomía, y fisiología.  
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .titulo-sexto
           h5 Figura 3. 
@@ -105,12 +109,12 @@
           img.img-a.img-t(src='@/assets/curso/tema1/10.png' alt='Representación anatómica del cuerpo humano con disposición anterior y posterior. Se identifican el sistema óseo y los músculos principales organizados de la cabeza a los pies para el estudio de la estructura corporal.')
           
 
-    .titulo.mb-5(data-aos="fade-left")
+    .titulo.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Ergonomía
 
     
-    p.mb-5 La ergonomía se reconoce como una disciplina científica orientada al estudio de las interacciones entre las personas y los elementos que conforman un sistema (International Ergonomics Association, 2000). Su aplicación se sustenta en teorías, principios y métodos cuyo propósito es favorecer el bienestar, la seguridad y la eficiencia en las actividades cotidianas, mediante la adecuación de productos y entornos a las características humanas.
+    p.mb-5(data-aos="fade-left") La ergonomía se reconoce como una disciplina científica orientada al estudio de las interacciones entre las personas y los elementos que conforman un sistema (International Ergonomics Association, 2000). Su aplicación se sustenta en teorías, principios y métodos cuyo propósito es favorecer el bienestar, la seguridad y la eficiencia en las actividades cotidianas, mediante la adecuación de productos y entornos a las características humanas.
 
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
@@ -122,7 +126,7 @@
         p.mb-0.mx-lg-4 En este sentido, uno de los propósitos del diseño de moda consiste en proyectar modelos de prendas con criterios ergonómicos, integrando procesos de confección coherentes y la selección pertinente de materiales, los cuales constituyen un factor estratégico para garantizar desempeño, durabilidad y confort en el uso.
     
 
-    p.mb-5 En síntesis, la relación entre los conceptos asociados a la estructura corporal puede organizarse de la siguiente manera:
+    p.mb-5(data-aos="fade-left") En síntesis, la relación entre los conceptos asociados a la estructura corporal puede organizarse de la siguiente manera:
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -165,7 +169,7 @@
       h3.mb-0 División del cuerpo
     
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .bg2.p-4.p-lg-5
           .row.justify-content-center.align-items-center.mb-0
@@ -173,7 +177,7 @@
               .row.justify-content-center.align-items-center.mb-0
                 .col-lg-7
                   p.mb-lg-5.mb-4 A partir de los conceptos previamente desarrollados, resulta necesario comprender cómo se organiza la división del cuerpo según sus segmentos y miembros, con el fin de interpretarlo de manera funcional dentro de los procesos de patronaje. Esta comprensión permite establecer una relación clara entre la estructura corporal y la clasificación técnica de las prendas, diferenciando aquellas destinadas a la zona superior y a la zona inferior del cuerpo, lo que facilita la toma de medidas, la definición de ajustes y la construcción adecuada de los patrones básicos.
-                  img.img-t(src='@/assets/curso/tema1/35.png' alt='AvatarTop')
+                  img.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/35.png' alt='AvatarTop')
                 .col-lg-5
                   .titulo-sexto
                     h5 Figura 4. 
@@ -181,15 +185,15 @@
                   img.img-a.img-t(src='@/assets/curso/tema1/19.svg' alt='Representación anatómica del cuerpo humano con disposición anterior y posterior. Se identifican el sistema óseo y los músculos principales organizados de la cabeza a los pies para el estudio de la estructura corporal.')
           
     
-    p.mb-5 Con base en la organización segmentaria del cuerpo, las prendas de vestir se clasifican en relación con los miembros superiores y los miembros inferiores, lo que facilita su comprensión técnica dentro de los procesos de patronaje y ajuste.
+    p.mb-5(data-aos="fade-left") Con base en la organización segmentaria del cuerpo, las prendas de vestir se clasifican en relación con los miembros superiores y los miembros inferiores, lo que facilita su comprensión técnica dentro de los procesos de patronaje y ajuste.
 
     
-    .titulo.mb-5(data-aos="fade-left")
+    .titulo.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Prendas superiores
     
 
-    p.mb-5 Se asocian con los segmentos correspondientes a la zona superior del cuerpo y su adaptación funcional.
+    p.mb-5(data-aos="fade-left") Se asocian con los segmentos correspondientes a la zona superior del cuerpo y su adaptación funcional.
 
 
     .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-right")
@@ -215,12 +219,12 @@
       h3.mb-0 Prendas inferiores
     
 
-    p.mb-5 Se relacionan con los segmentos correspondientes a la zona inferior del cuerpo y con los requerimientos de movilidad:
+    p.mb-5(data-aos="fade-right") Se relacionan con los segmentos correspondientes a la zona inferior del cuerpo y con los requerimientos de movilidad:
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-9
-        .row.justify-content-center.align-items-stretch.mb-0(data-aos="fade-right")
+        .row.justify-content-center.align-items-stretch.mb-0
           .col-lg-4.col-md-6.mb-lg-0.mb-4
             .h-100.bg8.p-3
               .row.justify-content-center.align-items-center.mb-0
@@ -245,17 +249,17 @@
               .bg9.p-1.mb-4
                 h4.text-center.mb-0.ps-lg-4.pe-lg-4.ps-3.pe-3 Tobillos y pies
               p.mb-2.text-center Se vinculan de manera complementaria con el diseño de prendas inferiores y accesorios como medias. Su consideración técnica depende del ajuste longitudinal, el largo de la prenda y la adaptación adecuada en la zona de terminación, asegurando proporción y funcionalidad.
-      .col-lg-3
+      .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/tema1/23.png' alt='AvatarTop')
 
     
-    h4.mb-4 Estructura del cuerpo
+    h4.mb-4(data-aos="fade-right") Estructura del cuerpo
 
 
-    p.mb-4 Se invita a explorar el video, donde se abordan nociones básicas de la estructura corporal como anatomía, ejes, antropometría, ergonomía, somatotipos, siluetas y posturas.
+    p.mb-4(data-aos="fade-left") Se invita a explorar el video, donde se abordan nociones básicas de la estructura corporal como anatomía, ejes, antropometría, ergonomía, somatotipos, siluetas y posturas.
     
 
-    .row.justify-content-center.align-items-center           
+    .row.justify-content-center.align-items-center(data-aos="fade-right")           
       .col-lg-12
         figure
           .video
@@ -278,7 +282,7 @@
             p.mb-0(data-aos="fade-left") Desde la perspectiva técnica del desarrollo de prendas femeninas, reconocer estas variaciones estructurales resulta determinante para definir criterios de ajuste, distribución de holguras y ubicación de líneas constructivas. La lectura adecuada de la forma corporal facilita establecer correspondencias entre las características físicas de la persona usuaria y las soluciones de diseño, favoreciendo funcionalidad, proporcionalidad y coherencia en el resultado final.
 
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .titulo-sexto
           h5 Figura 5. 
@@ -287,7 +291,7 @@
           img.img-a.img-t(src='@/assets/curso/tema1/29.svg' alt='Conjunto de cinco siluetas corporales femeninas con variaciones en proporciones de hombros, cintura y cadera. Se presentan distintos biotipos para clasificar la estructura corporal según su distribución de volumen.')
           
     
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-12.clp
         TabsA.color-acento-botones.mb-0
           .tarjeta.color-a.p-4(titulo="Tipo de silueta 1")

@@ -2,24 +2,31 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 50%
+    right: 90%
+    width: 80px
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 70%
+    right: 25%
   &-3
-    animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 60%
-  &-3
-    animation: float1 2.0s ease-in-out infinite alternate
-    position: absolute
-    top: 54%
-    right: 10%
-    width: 100px
+    top: 30%
+    right: 5%
+    width: 120px
+    transform-origin: center
+    animation: girarYVolver 5s ease-in-out infinite
+
+@keyframes girarYVolver
+  0%
+    transform: rotate(0deg)
+  40%
+    transform: rotate(360deg)
+  60%
+    transform: rotate(360deg)
+  100%
+    transform: rotate(0deg)
 
 @keyframes float1
   0%
@@ -456,6 +463,27 @@ table.tabla-a.tab1
     background-color: #CDBFDC
 
 
+.he4
+  @media only screen and (max-width: 767px)
+    height: auto 
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    height: auto 
+  @media only screen and (min-width: 1024px) 
+    height: 574px
+    align-items: center
+    display: flex
+    justify-content: center
+
+.he41
+  @media only screen and (max-width: 767px)
+    height: auto 
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    height: auto 
+  @media only screen and (min-width: 1024px) 
+    height: 600px
+    align-items: center
+    display: flex
+    justify-content: center
 
 
 //TEMA5
@@ -537,9 +565,15 @@ table.tabla-a.tab3
   @media only screen and (max-width: 767px)
     left: auto
     right: 0px
+    background-image: url('../assets/curso/tema5/t5.png') !important
+    background-size: cover !important
+    background-position: center !important
   @media only screen and (min-width: 768px) and (max-width: 1023px)
     left: auto
     right: 0px
+    background-image: url('../assets/curso/tema5/t5.png') !important
+    background-size: cover !important
+    background-position: center !important
 
 
 .pasos-a__linea__esquina__linea 
@@ -548,18 +582,110 @@ table.tabla-a.tab3
     position: relative
     border-radius: 0px
 .pasos-a.color-primario .pasos-a__circle 
-    background-color: #00A8FF
+    background-color: #482370
 .pasos-a.color-primario .pasos-a__circle div 
-    color: black
+    color: $white
 .pasos-a.color-primario .pasos-a__numero::after
-    border-left-color: #00A8FF
+    border-left-color: #482370
 .pasos-a.color-primario .pasos-a__linea .hor-line 
-    border-top-color: #00A8FF
+    border-top-color: #482370
 .pasos-a.color-primario .pasos-a__linea__esquina__linea 
-    border-color:#00A8FF
+    border-color:#482370
 @media only screen and (max-width: 767px)
   .cel
     display: none
 @media only screen and (min-width: 768px) and (max-width: 1023px)
   .cel
     display: none
+.col-1
+    flex: 0 0 auto
+    width: 1%
+
+
+.bg16
+  background-color: #E2A4DB
+  border-radius: 18px 0px 0px 18px
+  @media only screen and (max-width: 767px)
+    border-radius: 20px
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    border-radius: 18px 0px 0px 18px
+.bg17
+  background-color: #CDBFDC
+  border-radius: 0px
+  @media only screen and (max-width: 767px)
+    border-radius: 20px
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    border-radius: 0px 18px 18px 0px
+.bg18
+  background-color: #FEC872
+  border-radius: 0px 18px 18px 0px
+  @media only screen and (max-width: 767px)
+    border-radius: 20px
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    border-radius: 20px
+
+
+.bg19
+  background-color: #CDBFDC
+  border-radius: 18px 0px 0px 18px
+  @media only screen and (max-width: 767px)
+    border-radius: 20px
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    border-radius: 18px 0px 0px 18px
+.bg20
+  background-color: #FEC872
+  border-radius: 0px
+  @media only screen and (max-width: 767px)
+    border-radius: 20px
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    border-radius: 0px 18px 18px 0px
+.bg21
+  background-color: #E2A4DB
+  border-radius: 0px 18px 18px 0px
+  @media only screen and (max-width: 767px)
+    border-radius: 20px
+  @media only screen and (min-width: 768px) and (max-width: 1023px)
+    border-radius: 20px
+
+
+.sub
+  background-color: #752092
+  width: fit-content
+  border-radius: 0px 30px 0px 30px
+
+
+
+
+.sob1
+  margin-left: -10% 
+  margin-bottom: -0px
+  z-index: 2
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 5rem
+  & > *
+    position: relative
+  p
+    margin-bottom: 0
+  &::before
+    position: absolute
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 50px)
+    height: 100%
+    background-color: #DAF5EE
+    @media only screen and (max-width: 767px)
+      width: calc( 100% - 0px)
+    @media only screen and (min-width: 768px) and (max-width: 1023px)
+      width: calc( 100% - 0px)
+  @media (max-width: 1000px)
+    padding-right: 1rem
+.crd--first
+  &::before
+    background-color: #A3E2D9
+    border-top-left-radius: 30px
+.crd--last
+  &::before
+    border-bottom-left-radius: 30px
+    background-color: #A3E2D9
