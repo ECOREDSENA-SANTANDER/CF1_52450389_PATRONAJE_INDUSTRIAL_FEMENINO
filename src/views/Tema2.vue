@@ -7,7 +7,6 @@
         span 2
       h1 Análisis y clasificación de las medidas
     
-
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
       .col-lg-12
         .bloque-texto-g.color-acento-botones.p-3.p-lg-5.p-md-4
@@ -17,14 +16,11 @@
           .bloque-texto-g__texto.p-lg-5.p-md-4.p-4
             p.mb-0 El análisis de medidas implica organizar y sistematizar los datos obtenidos del cuerpo humano, ya que esta información orienta de manera directa el desarrollo técnico del patronaje y la construcción de la moldería. En este sentido, resulta necesario disponer de un sistema de medidas estructurado que permita identificar, ordenar y clasificar cada registro según su función dentro del proceso.
 
-    
     p.mb-5(data-aos="fade-left") La correcta interpretación de estas medidas facilita su aplicación en la elaboración de patrones básicos, al establecer relaciones proporcionales entre los distintos segmentos corporales y los requerimientos de ajuste, holgura y funcionalidad que exige la prenda. De este modo, la clasificación técnica de las medidas se convierte en un soporte fundamental para garantizar coherencia entre la estructura corporal y la solución constructiva propuesta.
 
-    
     .titulo.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Sistemas de medidas – clasificación
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-5.d-none.d-lg-block
@@ -37,7 +33,6 @@
             p.mb-0 En el ámbito del patronaje, el sistema de medidas corresponde al conjunto organizado de procedimientos utilizados para obtener, registrar y aplicar los datos derivados de la medición corporal. La precisión en este proceso resulta determinante para la construcción de patrones de prendas de vestir, ya que de la calidad del registro depende el nivel de ajuste, adaptación y funcionalidad que la prenda alcance durante su uso.
         p.mb-0 El proceso de medición influye directamente en la forma en que la prenda se adapta al cuerpo, considerando relaciones de proporcionalidad, confort y desempeño funcional, con el propósito de lograr coherencia entre la estructura corporal y la solución constructiva desarrollada.
 
-    
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8
         p.mb-4 De manera general, los sistemas de medidas empleados en patronaje se clasifican en:
@@ -47,7 +42,6 @@
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/tema2/4.png' alt='AvatarTop')
 
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .titulo-sexto
@@ -56,7 +50,6 @@
         .bg2.p-4
           img.img-a.img-t(src='@/assets/curso/tema2/5.svg' alt='Escala fraccionaria entre uno y dos que organiza divisiones sucesivas del segmento en dieciseisavos, octavos, cuartos, medios y tres cuartos para referencia de medidas proporcionales.')
           
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10
         .titulo-sexto
@@ -65,7 +58,6 @@
         .bg2.p-4
           img.img-a.img-t(src='@/assets/curso/tema2/6.svg' alt='Escala métrica lineal graduada de cero a cinco centímetros, con subdivisiones regulares que permiten precisar medidas cortas en unidades y fracciones de centímetro.')
           
-
     .tarjeta.color-primario.des.p-4.mb-0(data-aos="fade-left")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
@@ -85,7 +77,6 @@
     #t_2_1.titulo-segundo.mb-5
       h2 2.1 Las medidas
     
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-9
         .row.justify-content-center.align-items-center.mb-4
@@ -98,12 +89,9 @@
       .col-lg-3
         img.img-a.img-t(src="@/assets/curso/tema2/9.png")
 
-    
     p.mb-4(data-aos="fade-left") A continuación, se presentan aspectos relevantes para la toma y organización de la información corporal:
 
-    
     p.mb-5(data-aos="fade-right") #[b Medidas corporales:] se obtienen a partir de puntos de referencia anatómicos definidos, considerando criterios antropométricos que permiten ubicar con precisión cada registro. Estas mediciones tienen en cuenta volúmenes y relieves estructurales del cuerpo, con el fin de garantizar coherencia entre la configuración corporal y los requerimientos de construcción de la prenda. De acuerdo con su función dentro del patronaje, estas medidas se agrupan en tres categorías principales.
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-5.mb-lg-0.mb-4
@@ -125,13 +113,10 @@
         .bg2.p-4
           img.img-t.img-a(src='@/assets/curso/tema2/10.svg' alt='Esquema técnico de medición corporal aplicado a confección de prendas. Se señalan puntos y trayectos para tomar medidas como contornos, largos, anchos y alturas en cabeza, tronco, cintura, cadera, mangas y piernas para el ajuste del vestuario.')
       
-
     h4.mb-4(data-aos="fade-right") Clasificación de medidas
-
 
     p.mb-4(data-aos="fade-left") Se invita a consultar el video para conocer cómo desarrollar patrones de prendas de vestir, desde la identificación de formas corpóreas y conceptos básicos de anatomía, hasta el diseño del molde básico.
     
-
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")        
       .col-lg-12
         figure

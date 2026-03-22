@@ -7,7 +7,6 @@
         span 5
       h1 Textiles
 
-
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
       .col-lg-12
         .bloque-texto-g.color-primario.t5.p-3.p-lg-5.p-md-4
@@ -17,13 +16,11 @@
           .bloque-texto-g__texto.p-lg-5.p-md-4.p-4
             p.mb-0 Los materiales textiles, tanto para aplicaciones de vestuario como para usos industriales, se originan a partir de fibras que constituyen la unidad básica de cualquier estructura textil. Estas fibras se transforman mediante procesos técnicos que incluyen la formación de filamentos, el hilado para obtener hilos y, posteriormente, la conformación de tejidos que dan lugar a las telas. La comprensión de esta secuencia permite interpretar cómo las características del material influyen en el comportamiento, la resistencia y la funcionalidad del producto final.
     
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-lg-0.mb-4
         .titulo.mb-5
           img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
           h3.mb-0 Fibras textiles
-
         p.mb-0 Se entienden como la unidad sólida elemental que compone toda estructura textil. Cada fibra corresponde a un filamento que participa en la conformación de los hilos y, en consecuencia, de los tejidos y telas. Desde el punto de vista técnico, se considera fibra a aquel elemento cuya longitud es considerablemente mayor que su diámetro, condición que posibilita su entrelazado, torsión y transformación en estructuras textiles con propiedades específicas de resistencia, flexibilidad y adaptabilidad al uso.
       .col-lg-6
         .titulo-sexto
@@ -31,7 +28,6 @@
           | Fibras textiles
         img.img-t.img-a(src='@/assets/curso/tema5/2.png' alt='Conjunto de fibras vegetales enrolladas y sueltas empleadas en procesos artesanales de tejido y elaboración de objetos, organizadas como material base para trabajo manual.')
           
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-5.d-none.d-lg-block
         img(src='@/assets/curso/tema5/3.png' alt='AvatarTop')
@@ -43,7 +39,6 @@
             p.mb-0 Las fibras textiles se organizan de acuerdo con su origen, lo que permite comprender sus propiedades físicas, su comportamiento durante los procesos de transformación y su pertinencia según el uso final. De manera general, se reconocen dos grandes grupos: fibras naturales y fibras químicas, cada uno con subdivisiones según la materia prima de procedencia.
         p.mb-0 #[b Clasificación de las fibras:] las fibras se clasifican según su origen. De manera general, se reconocen dos grandes grupos: las naturales y las químicas. A su vez, estos grupos se subdividen, como se presenta en la siguiente tabla.
 
-    
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         .titulo-sexto
@@ -106,12 +101,10 @@
                 td Poliuretano y poliespán.
         figcaption Fuente: SENA, (2025)
 
-    
     .titulo.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Hilos e hilatura
 
-    
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-lg-0.mb-4
         img.mb-0(src='@/assets/curso/tema5/5.png' alt='AvatarTop')
@@ -124,7 +117,6 @@
           h3.mb-3.text-white Hilatura
           p.mb-0.text-white corresponde al proceso técnico mediante el cual los filamentos o fibras se transforman y organizan en hebras continuas, preparadas para la construcción de hilos y, posteriormente, de tejidos. Este procedimiento incide de manera directa en propiedades como la resistencia, la regularidad y el desempeño funcional del material en su uso final.
 
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10
         .titulo-sexto
@@ -132,19 +124,16 @@
           | Hilaturas
         img.img-t.img-a(src='@/assets/curso/tema5/7.png' alt='Conjunto de ovillos de fibra textil natural organizados como materia prima para procesos de tejido y elaboración de productos artesanales.')
           
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
         .titulo.mb-5
           img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
           h3.mb-0 Tejidos
-
         p.mb-4 Los tejidos corresponden a estructuras textiles obtenidas a partir de la transformación y organización de fibras o hilos, cuya relación entre longitud, área y espesor les otorga cohesión y resistencia mecánica suficiente para su uso (Textile Terms and Definitions, The Textile Institute, citado por SENA, 2025). Estas estructuras permiten generar superficies flexibles con propiedades específicas según el método de construcción empleado.
         .bg11.p-4
           p.mb-0.mx-lg-5.mb-lg-3.mt-lg-3 De manera general, los tejidos se agrupan en dos categorías principales (tejidos planos y tejidos de punto), además de contemplar las estructuras no tejidas, las cuales se producen mediante procesos tecnológicos que no requieren entrelazado tradicional de hilos.
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/tema5/8.png' alt='AvatarTop')
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
@@ -163,7 +152,7 @@
               tr
                 td.fw-bold(rowspan="5") Telas tejidas
                 td(rowspan="3") Plano
-                td Ligamentos fundamentales.
+                td Ligamentos fundamentales
                 td
                   .row
                     .col-12
@@ -171,7 +160,7 @@
                       p.mb-0 • Sarga (diagonal)
                       p.mb-0 • Raso
               tr
-                td Ligamentos derivados.
+                td Ligamentos derivados
                 td
                   .row
                     .col-12
@@ -179,21 +168,21 @@
                       p.mb-0 • Espina / espiga
                       p.mb-0 • Sarga interrumpida (#[em broken twill])
               tr
-                td Otros.
+                td Otros
                 td
                   .row
                     .col-12
-                      p.mb-0 #[em • Dobby, jacquard,] rizo, afelpados, etc.
+                      p.mb-0 #[em • Dobby, jacquard,] rizo, afelpados, etc
               tr
                 td(rowspan="2") Punto
-                td Por trama.
+                td Por trama
                 td
                   .row
                     .col-12
                       p.mb-0 • Sencillo (Jersey, Lacoste)
                       p.mb-0 • Doble (#[em rib] o resortado, #[em interlock,] piqué)
               tr
-                td Por urdimbre.
+                td Por urdimbre
                 td
                   .row
                     .col-12
@@ -202,14 +191,13 @@
               tr
                 td.fw-bold Telas no tejidas
                 td No aplica
-                td No aplica.
+                td No aplica
                 td
                   .row
                     .col-12
                       p.mb-0 • Guatas
                       p.mb-0 • Entretelas
         figcaption Fuente: SENA, (2025)
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -227,10 +215,8 @@
 
     h4.mb-4(data-aos="fade-right") Caracterización de los textiles
 
-
     p.mb-4(data-aos="fade-left") Se invita a consultar el video para conocer las características, usos y aplicaciones de los textiles en la creación de prendas, una base clave para tomar decisiones acertadas en diseño y confección.
     
-
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")        
       .col-lg-12
         figure
@@ -243,12 +229,9 @@
     #t_5_1.titulo-segundo.mb-5
       h2 5.1 Aprovechamiento
 
-    
     p.mb-4(data-aos="fade-left") El aprovechamiento por metro de tela consiste en determinar cuánta tela se utiliza realmente para confeccionar una prenda en relación con la cantidad total comprada. Este cálculo es fundamental para optimizar costos, minimizar desperdicios y mejorar la eficiencia en producción.
     
-    
     p.mb-5(data-aos="fade-right") Pasos para determinar el aprovechamiento:
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -319,11 +302,9 @@
               figure
                 img(src='@/assets/curso/tema5/15.svg', alt='Fichas técnicas en patronaje')
 
-
     .titulo.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Elementos clave de una ficha técnica
-
 
     .row.justify-content-center.align-items-stretch.mb-lg-3.mb-1.mb-md-4(data-aos="fade-left")
       .col-lg-4.col-md-6.pe-lg-0.pe-md-0.mb-lg-0.mb-4.mb-md-4
@@ -342,7 +323,6 @@
           h3.mb-4.text-center Especificaciones de materiales:
           p.mb-0.text-center detalla los tejidos, fornituras y otros materiales necesarios, incluyendo composición, color, proveedor y características especiales.
 
-
     .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-right")
       .col-lg-4.col-md-6.pe-lg-0.pe-md-0.mb-lg-0.mb-4.mb-md-4
         .bg19.p-lg-5.p-4.h-100
@@ -360,19 +340,15 @@
           h3.mb-4.text-center Detalles de acabado:
           p.mb-0.text-center especifica procesos adicionales como lavado, planchado, etiquetado y empaquetado, garantizando la presentación y calidad final del producto.
 
-    
     .sub.p-2.mb-5(data-aos="fade-left")
-      h4.mb-0.text-white.ps-3.pe-3 • Dentro del proceso de fabricación, existen diferentes tipos de fichas técnicas especializadas
+      h4.mb-0.text-white.ps-3.pe-3 Dentro del proceso de fabricación, existen diferentes tipos de fichas técnicas especializadas
 
-    
     p.mb-5(data-aos="fade-right") En el proceso de fabricación de prendas, la ficha técnica es un documento esencial que organiza y comunica la información necesaria para llevar un diseño a producción. Permite estandarizar procesos, reducir errores y asegurar coherencia entre el diseño, el patronaje y la confección. Existen distintos tipos de fichas técnicas, cada una enfocada en aspectos específicos del desarrollo y control de la prenda.
-
 
     .titulo.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Tipos de fichas técnicas en patronaje y confección
 
-    
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12.offset-lg-2
         .row.justify-content-center.align-items-end
@@ -384,7 +360,7 @@
                     img.d-none.d-lg-block(src="@/assets/curso/tema5/24.svg", alt="alt")
                 .col
                   h4.mb-2 a. Ficha técnica de patronaje:
-                  p.mb-0 este documento registra de manera organizada el desarrollo del diseño plano acotado, incorporando las medidas correspondientes a una o varias tallas. Su función es orientar la construcción de los patrones básicos y sus transformaciones, asegurando que cada pieza responda a los criterios de ajuste, proporción y estandarización definidos para la prenda.
+                  p.mb-0 Este documento registra de manera organizada el desarrollo del diseño plano acotado, incorporando las medidas correspondientes a una o varias tallas. Su función es orientar la construcción de los patrones básicos y sus transformaciones, asegurando que cada pieza responda a los criterios de ajuste, proporción y estandarización definidos para la prenda.
             .crd.crd--avatarHorizontal.py-4
               .row.align-items-center
                 .col-auto
@@ -392,7 +368,7 @@
                     img.d-none.d-lg-block(src="@/assets/curso/tema5/25.svg", alt="alt")
                 .col
                   h4.mb-2 b. Ficha técnica de despiece:
-                  p.mb-0 la ficha de despiece detalla cada componente que conforma la prenda, incluyendo piezas principales, forros, refuerzos y complementos estructurales. En este registro se especifican dimensiones, materiales, cantidad de piezas y particularidades constructivas, lo que facilita la organización del proceso de corte y la correcta identificación de cada elemento.
+                  p.mb-0 La ficha de despiece detalla cada componente que conforma la prenda, incluyendo piezas principales, forros, refuerzos y complementos estructurales. En este registro se especifican dimensiones, materiales, cantidad de piezas y particularidades constructivas, lo que facilita la organización del proceso de corte y la correcta identificación de cada elemento.
             .crd.crd--avatarHorizontal.crd--last.py-4
               .row.align-items-center
                 .col-auto
@@ -400,17 +376,14 @@
                     img.d-none.d-lg-block(src="@/assets/curso/tema5/26.svg", alt="alt")
                 .col
                   h4.mb-2 c. Ficha técnica de escalado:
-                  p.mb-0 la ficha de escalado se orienta al proceso de gradación de tallas, estableciendo los incrementos y proporciones necesarios para adaptar el patrón base a diferentes tamaños. Su objetivo es mantener coherencia en la estructura, el ajuste y la funcionalidad de la prenda en todas las referencias de talla.
+                  p.mb-0 La ficha de escalado se orienta al proceso de gradación de tallas, estableciendo los incrementos y proporciones necesarios para adaptar el patrón base a diferentes tamaños. Su objetivo es mantener coherencia en la estructura, el ajuste y la funcionalidad de la prenda en todas las referencias de talla.
           .col-lg-4.sob1.d-none.d-lg-block
             img.img-t(src="@/assets/curso/tema5/27.svg", alt="alt")
 
-
     h4.mb-4(data-aos="fade-left") Introducción a la ficha técnica
-
 
     p.mb-4(data-aos="fade-right") Se invita a consultar el video para conocer la función de las fichas técnicas en la fabricación de prendas de vestir y su importancia en el control y precisión del proceso de confección.
     
-
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")        
       .col-lg-12
         figure
@@ -419,8 +392,6 @@
         figcaption Video. Introducción a la ficha técnica
 
 
-
-    
 </template>
 
 <script>

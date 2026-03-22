@@ -7,7 +7,6 @@
         span 1
       h1 Estructura del cuerpo
     
-
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
       .col-lg-12
         .bloque-texto-g.color-secundario.p-3.p-lg-5.p-md-4
@@ -17,17 +16,13 @@
           .bloque-texto-g__texto.p-lg-5.p-md-4.p-4
             p.mb-0 La estructura del cuerpo se comprende a partir de su arquitectura, entendida como la relación entre composición, organización y movimiento. Este enfoque resulta fundamental para sustentar teóricamente el patronaje y las distintas metodologías aplicadas en su desarrollo, en tanto permite analizar el cuerpo como un sistema funcional y dinámico.
 
-    
     p.mb-4(data-aos="fade-left") Desde esta perspectiva, la estructura corporal se define por la organización y disposición de los segmentos corporales en función de principios biomecánicos (Norton, 2019). Dichos principios se relacionan con el movimiento y con factores anatómicos, morfológicos y posturales que inciden directamente en la estabilidad, la funcionalidad y la ergonomía del cuerpo en diversos contextos de uso, entre ellos, el diseño y la construcción de prendas de vestir.
     
-    
     p.mb-5(data-aos="fade-right") A continuación, podrá encontrar los conceptos relacionados con la estructura corporal. 
-
 
     .titulo.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Antropometría
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-3.d-none.d-lg-block
@@ -41,7 +36,6 @@
               p.mb-0 La antropometría se reconoce como una disciplina orientada a la medición y análisis de las dimensiones físicas y de las proporciones del cuerpo humano a lo largo de sus distintas etapas de desarrollo. Su alcance teórico y aplicado se articula con campos como la ergonomía, la nutrición y la medicina, en la medida en que aporta información objetiva para la valoración de condiciones corporales y funcionales. Estos datos permiten proyectar y ajustar espacios, objetos y sistemas de uso considerando las variaciones físicas presentes en diversos contextos.
         p.mb-0 En el ámbito de la elaboración de vestuario, la antropometría se aplica mediante el análisis ergonómico con el propósito de desarrollar prendas que favorezcan la movilidad, el ajuste adecuado y la funcionalidad durante el uso, garantizando coherencia entre las características corporales y las exigencias técnicas del patronaje industrial.
 
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .titulo-sexto
@@ -50,7 +44,6 @@
         .bg2.p-4
           img.img-a.img-t(src='@/assets/curso/tema1/5.svg' alt='Esquema antropométrico con tres figuras humanas: dos de persona adulta y una infantil. Se indican proporciones y medidas del cuerpo mediante líneas y números que señalan alturas, anchos y distancias entre segmentos corporales.')
           
-    
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8
         .titulo.mb-5
@@ -62,7 +55,6 @@
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/tema1/6.png' alt='AvatarTop')
 
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .titulo-sexto
@@ -71,12 +63,10 @@
         .bg2.p-4
           img.img-a.img-t(src='@/assets/curso/tema1/7.png' alt='Representación anatómica del cuerpo humano con disposición frontal y posterior. Se distinguen los principales grupos musculares organizados desde la cabeza hasta los pies para el estudio de la estructura corporal y sus zonas funcionales.')
           
-
     .titulo.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Biomecánica
 
-    
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-5.col-md-8.col-10.mb-lg-0.mb-4
         img(src='@/assets/curso/tema1/8.png' alt='AvatarTop')
@@ -88,17 +78,13 @@
             p.mb-0 La biomecánica se reconoce como la disciplina encargada de estudiar los principios mecánicos que regulan el movimiento y la estructura del cuerpo humano, mediante el análisis de las fuerzas internas y externas que actúan sobre este y la respuesta del sistema musculoesquelético ante dichas cargas. Sus aplicaciones se extienden a campos como el diseño de prótesis, el deporte y los procesos de rehabilitación, en los que se requiere comprender el comportamiento funcional del cuerpo en acción.
         p.mb-0 En el ámbito del diseño y la construcción de prendas de vestir, la articulación entre anatomía y biomecánica se fundamenta en principios de adaptación, ajuste y funcionalidad, los cuales permiten considerar el cuerpo como un sistema dinámico que se desplaza, flexiona y requiere rangos de movimiento específicos.
     
-    
     p.mb-5(data-aos="fade-right") Desde esta perspectiva, la comprensión integrada de la anatomía, la biomecánica y la ergonomía corporal posibilita el desarrollo de prendas que respondan de manera coherente a las necesidades físicas de las personas usuarias, favoreciendo una interacción adecuada entre el cuerpo y el vestuario, en términos de confort, movilidad y desempeño funcional (Sierra y Mosquera, 2013).
-
 
     .titulo.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Morfología
 
-    
     p.mb-5(data-aos="fade-right") La morfología del cuerpo humano hace referencia a la forma y estructura del cuerpo a partir de la relación y disposición de sus partes, esta rama resulta esencial en otras áreas y disciplinas como la anatomía, y fisiología.  
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -108,14 +94,11 @@
         .bg2.p-4
           img.img-a.img-t(src='@/assets/curso/tema1/10.png' alt='Representación anatómica del cuerpo humano con disposición anterior y posterior. Se identifican el sistema óseo y los músculos principales organizados de la cabeza a los pies para el estudio de la estructura corporal.')
           
-
     .titulo.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Ergonomía
 
-    
     p.mb-5(data-aos="fade-left") La ergonomía se reconoce como una disciplina científica orientada al estudio de las interacciones entre las personas y los elementos que conforman un sistema (International Ergonomics Association, 2000). Su aplicación se sustenta en teorías, principios y métodos cuyo propósito es favorecer el bienestar, la seguridad y la eficiencia en las actividades cotidianas, mediante la adecuación de productos y entornos a las características humanas.
-
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-4.d-none.d-lg-block
@@ -125,9 +108,7 @@
           p.mb-0.mx-lg-0 En el campo del diseño y la construcción de prendas de vestir, la ergonomía se vincula con el nivel de confort, funcionalidad y adaptabilidad que el vestuario puede ofrecer al cuerpo durante el desarrollo de las actividades diarias. Este enfoque busca facilitar el desempeño corporal sin restricciones, así como prevenir molestias o afecciones derivadas de un ajuste inadecuado o de soluciones constructivas que limiten el movimiento. Por ejemplo, una prenda inferior que restrinja la flexión de la rodilla puede generar incomodidad o sobrecarga articular, lo que evidencia la necesidad de considerar rangos de movilidad desde el patronaje y la confección.
         p.mb-0.mx-lg-4 En este sentido, uno de los propósitos del diseño de moda consiste en proyectar modelos de prendas con criterios ergonómicos, integrando procesos de confección coherentes y la selección pertinente de materiales, los cuales constituyen un factor estratégico para garantizar desempeño, durabilidad y confort en el uso.
     
-
     p.mb-5(data-aos="fade-left") En síntesis, la relación entre los conceptos asociados a la estructura corporal puede organizarse de la siguiente manera:
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
@@ -163,12 +144,10 @@
             h4.text-center.mb-4 Antropometría
             p.mb-4.text-center Se encarga de la medición sistemática de las dimensiones corporales, proporcionando datos técnicos para su aplicación en distintos contextos productivos.
 
-
     .titulo.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 División del cuerpo
     
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .bg2.p-4.p-lg-5
@@ -182,19 +161,15 @@
                   .titulo-sexto
                     h5 Figura 4. 
                     | División del cuerpo
-                  img.img-a.img-t(src='@/assets/curso/tema1/19.svg' alt='Representación anatómica del cuerpo humano con disposición anterior y posterior. Se identifican el sistema óseo y los músculos principales organizados de la cabeza a los pies para el estudio de la estructura corporal.')
+                  img.img-a.img-t(src='@/assets/curso/tema1/19.svg' alt='Esquema del cuerpo humano con segmentación por regiones anatómicas. Se nombran cabeza, cuello, tronco, miembros superiores e inferiores, incluyendo partes como brazo, antebrazo, mano, abdomen, pelvis, muslo, pierna y pie para organizar la referencia corporal por zonas.')
           
-    
     p.mb-5(data-aos="fade-left") Con base en la organización segmentaria del cuerpo, las prendas de vestir se clasifican en relación con los miembros superiores y los miembros inferiores, lo que facilita su comprensión técnica dentro de los procesos de patronaje y ajuste.
 
-    
     .titulo.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Prendas superiores
     
-
     p.mb-5(data-aos="fade-left") Se asocian con los segmentos correspondientes a la zona superior del cuerpo y su adaptación funcional.
-
 
     .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-right")
       .col-lg-4.col-md-6.pe-lg-0.pe-md-0.mb-lg-0.mb-4.mb-md-4
@@ -213,14 +188,11 @@
           h3.mb-4.text-center Cintura
           p.mb-0 Se establece como eje de referencia estructural y punto clave de ajuste. Funciona como transición entre las prendas superiores y ciertas tipologías intermedias, definiendo proporciones, entalle y armonía en la silueta general.
 
-    
     .titulo.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Prendas inferiores
     
-
     p.mb-5(data-aos="fade-right") Se relacionan con los segmentos correspondientes a la zona inferior del cuerpo y con los requerimientos de movilidad:
-
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-9
@@ -241,7 +213,7 @@
               .bg9.p-1.mb-4
                 h4.text-center.mb-0.ps-lg-4.pe-lg-4.ps-3.pe-3 Muslos y piernas 
               p.mb-2.text-center Su análisis se relaciona con la definición del ancho, la línea lateral y la holgura funcional necesaria para garantizar movilidad, desplazamiento y confort durante el movimiento. Este segmento influye directamente en la ergonomía y el comportamiento dinámico de la prenda.
-          .col-lg-4.col-md-6.mb-lg-0.mb-4
+          .col-lg-4.col-md-6.mb-lg-0.mb-0
             .h-100.bg8.p-3
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-4.my-4
@@ -252,13 +224,10 @@
       .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/tema1/23.png' alt='AvatarTop')
 
-    
     h4.mb-4(data-aos="fade-right") Estructura del cuerpo
-
 
     p.mb-4(data-aos="fade-left") Se invita a explorar el video, donde se abordan nociones básicas de la estructura corporal como anatomía, ejes, antropometría, ergonomía, somatotipos, siluetas y posturas.
     
-
     .row.justify-content-center.align-items-center(data-aos="fade-right")           
       .col-lg-12
         figure
@@ -271,7 +240,6 @@
     #t_1_1.titulo-segundo.mb-5
       h2 1.1 Tipos de siluetas femeninas
 
-    
     .bg10.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-5.col-md-8.col-12.mb-lg-0.mb-0(data-aos="fade-right"): img(src='@/assets/curso/tema1/27.png', alt='')
@@ -281,7 +249,6 @@
             p.mb-3(data-aos="fade-left") La tipología de silueta corresponde a la configuración global que adopta la forma corporal a partir de la relación entre proporciones y volúmenes, los cuales se perciben tanto en la tridimensionalidad del cuerpo como en su proyección sobre un plano. Este análisis permite identificar cómo se distribuyen los contornos, los ejes de equilibrio y las zonas de mayor o menor amplitud dentro de la estructura corporal.
             p.mb-0(data-aos="fade-left") Desde la perspectiva técnica del desarrollo de prendas femeninas, reconocer estas variaciones estructurales resulta determinante para definir criterios de ajuste, distribución de holguras y ubicación de líneas constructivas. La lectura adecuada de la forma corporal facilita establecer correspondencias entre las características físicas de la persona usuaria y las soluciones de diseño, favoreciendo funcionalidad, proporcionalidad y coherencia en el resultado final.
 
-    
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .titulo-sexto
@@ -290,11 +257,10 @@
         .bg2.p-4
           img.img-a.img-t(src='@/assets/curso/tema1/29.svg' alt='Conjunto de cinco siluetas corporales femeninas con variaciones en proporciones de hombros, cintura y cadera. Se presentan distintos biotipos para clasificar la estructura corporal según su distribución de volumen.')
           
-    
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-12.clp
         TabsA.color-acento-botones.mb-0
-          .tarjeta.color-a.p-4(titulo="Tipo de silueta 1")
+          .tarjeta.color-a.p-4(titulo="Silueta reloj de arena")
             .row.justify-content-center.align-items-center
               .col-lg-5
                 h4.mb-4.mx-lg-4 Silueta reloj de arena
@@ -303,9 +269,9 @@
                 .bgw.p-4
                   .titulo-sexto
                     h5 Figura 6. 
-                    | Tipos de silueta femeninas
+                    | Silueta reloj de arena
                   img.img-a.img-t(src='@/assets/curso/tema1/30.svg' alt='Silueta corporal femenina con proporción equilibrada entre hombros y cadera y cintura definida, correspondiente a un biotipo con distribución armónica del volumen corporal.')
-          .tarjeta.color-a.p-4(titulo="Tipo de silueta 2")
+          .tarjeta.color-a.p-4(titulo="Silueta triangular o tipo pera")
             .row.justify-content-center.align-items-center
               .col-lg-5
                 h4.mb-4.mx-lg-4 Silueta triangular o tipo pera
@@ -316,7 +282,7 @@
                     h5 Figura 7. 
                     | Silueta triangular
                   img.img-a.img-t(src='@/assets/curso/tema1/31.svg' alt='Silueta corporal femenina con mayor amplitud en la zona de cadera respecto a los hombros y cintura moderadamente definida, correspondiente a un biotipo con concentración de volumen en el segmento inferior.')
-          .tarjeta.color-a.p-4(titulo="Tipo de silueta 3")
+          .tarjeta.color-a.p-4(titulo="Silueta triángulo invertido")
             .row.justify-content-center.align-items-center
               .col-lg-5
                 h4.mb-4.mx-lg-4 Silueta triángulo invertido
@@ -325,9 +291,9 @@
                 .bgw.p-4
                   .titulo-sexto
                     h5 Figura 8. 
-                    | Silueta #[em triángulo] invertido
+                    | Silueta triángulo invertido
                   img.img-a.img-t(src='@/assets/curso/tema1/32.svg' alt='Silueta corporal femenina con mayor amplitud en la zona de hombros respecto a la cadera y cintura poco marcada, correspondiente a un biotipo con concentración de volumen en el segmento superior.')
-          .tarjeta.color-a.p-4(titulo="Tipo de silueta 4")
+          .tarjeta.color-a.p-4(titulo="Silueta rectangular")
             .row.justify-content-center.align-items-center
               .col-lg-5
                 h4.mb-4.mx-lg-4 Silueta rectangular
@@ -338,7 +304,7 @@
                     h5 Figura 9. 
                     | Silueta rectangular
                   img.img-a.img-t(src='@/assets/curso/tema1/33.svg' alt='Silueta corporal femenina con proporciones rectas entre hombros, cintura y cadera, correspondiente a un biotipo con distribución uniforme del volumen corporal.')
-          .tarjeta.color-a.p-4(titulo="Tipo de silueta 5")
+          .tarjeta.color-a.p-4(titulo="Silueta ovalada")
             .row.justify-content-center.align-items-center
               .col-lg-5
                 h4.mb-4.mx-lg-4 Silueta ovalada
@@ -349,6 +315,7 @@
                     h5 Figura 10. 
                     | Silueta ovalada
                   img.img-a.img-t(src='@/assets/curso/tema1/34.svg' alt='Figura femenina con silueta de óvalo, caracterizada por una cintura menos definida y mayor volumen en la zona abdominal.')
+    
     
 </template>
 
