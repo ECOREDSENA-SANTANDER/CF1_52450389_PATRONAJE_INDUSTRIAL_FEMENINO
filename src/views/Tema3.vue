@@ -24,24 +24,25 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
-        img(src='@/assets/curso/tema3/2.svg', alt='Texto que describa la imagen')
+        .bgp.p-4
+          img.d-none.d-lg-block(src='@/assets/curso/tema3/2.svg', alt='Texto que describa la imagen')
+          .tarjeta.bg-white.p-4.h-100
+            TarjetaAudio.color-acento-botones.mb-3(
+            texto="Proporción y canon"
+            :audio="require('@/assets/actividad/audio/podcast_cf1_patronaje_industriual_femenino.mp3')"
+            )
+            .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
+        
         .row.justify-content-center.g-0
           .col-lg-6.col-md-6
             .tarjeta.bg12.p-4.rounded-0.h-100
               .tarjeta.bg-white.p-4.h-100
-                TarjetaAudio.color-acento-botones.mb-3(
-                texto="a) Canon"
-                :audio="require('@/assets/actividad/audio/screen-change.mp3')"
-            )
-                .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
+                h5.mb-3 a) Canon
                 p.mb-0 Se entiende como un modelo de referencia que reúne características consideradas ideales dentro de un contexto histórico y cultural determinado, utilizado para analizar la organización y equilibrio de la figura humana en términos de proporcionalidad.
           .col-lg-6.col-md-6
             .tarjeta.bg13.p-4.rounded-0.h-100
               .tarjeta.bg-white.p-4.h-100
-                TarjetaAudio.color-acento-botones.bg-white.mb-3(
-                texto="b) Proporción"
-                :audio="require('@/assets/actividad/audio/screen-change.mp3')"
-              )
+                h5.mb-3 b) Proporción
                 p.mb-0 Hace referencia a la relación de correspondencia, equilibrio y coherencia existente entre las partes que conforman un todo. Este principio se aplica en campos como el arte, el diseño de vestuario, la arquitectura y otras disciplinas proyectuales, donde la armonía estructural resulta determinante.
           
     .titulo.mb-5(data-aos="fade-right")
