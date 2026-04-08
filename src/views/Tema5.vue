@@ -311,34 +311,34 @@
         .bg16.p-lg-5.p-4.h-100
           img.img-t.img-a.mb-4(src='@/assets/curso/tema5/18.svg')
           h3.mb-4.text-center Identificación del producto:
-          p.mb-0.text-center incluye el nombre de la prenda, código o referencia, categoría y colección a la que pertenece. 
+          p.mb-0.text-center Incluye el nombre de la prenda, código o referencia, categoría y colección a la que pertenece. 
       .col-lg-4.col-md-6.ps-lg-0.pe-lg-0.ps-md-0.mb-lg-0.mb-4.mb-md-4
         .bg17.p-lg-5.p-4.h-100
           img.img-t.img-a.mb-4(src='@/assets/curso/tema5/19.svg')
           h3.mb-4.text-center Detalles de diseño:
-          p.mb-0.text-center proporciona descripciones precisas del estilo, tipo de cuello, mangas, cierres y otros elementos distintivos. 
+          p.mb-0.text-center Proporciona descripciones precisas del estilo, tipo de cuello, mangas, cierres y otros elementos distintivos. 
       .col-lg-4.col-md-6.ps-lg-0.ps-md-0.mb-lg-0.mb-4.mb-md-0
         .bg18.p-lg-5.p-4.h-100
           img.img-t.img-a.mb-4(src='@/assets/curso/tema5/20.svg')
           h3.mb-4.text-center Especificaciones de materiales:
-          p.mb-0.text-center detalla los tejidos, fornituras y otros materiales necesarios, incluyendo composición, color, proveedor y características especiales.
+          p.mb-0.text-center Detalla los tejidos, fornituras y otros materiales necesarios, incluyendo composición, color, proveedor y características especiales.
 
     .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-right")
       .col-lg-4.col-md-6.pe-lg-0.pe-md-0.mb-lg-0.mb-4.mb-md-4
         .bg19.p-lg-5.p-4.h-100
           img.img-t.img-a.mb-4(src='@/assets/curso/tema5/21.svg')
           h3.mb-4.text-center Medidas y tallas:
-          p.mb-0.text-center ofrece tablas con dimensiones específicas para cada talla, asegurando la consistencia en el escalado y ajuste de las prendas.  
+          p.mb-0.text-center Ofrece tablas con dimensiones específicas para cada talla, asegurando la consistencia en el escalado y ajuste de las prendas.  
       .col-lg-4.col-md-6.ps-lg-0.pe-lg-0.ps-md-0.mb-lg-0.mb-4.mb-md-4
         .bg20.p-lg-5.p-4.h-100
           img.img-t.img-a.mb-4(src='@/assets/curso/tema5/22.svg')
-          h3.mb-4.text-center Instrucciones de confección
-          p.mb-0.text-center describe los métodos de costura, tipos de puntadas, márgenes de costura y cualquier técnica especial requerida durante la fabricación.
+          h3.mb-4.text-center Instrucciones de confección:
+          p.mb-0.text-center Describe los métodos de costura, tipos de puntadas, márgenes de costura y cualquier técnica especial requerida durante la fabricación.
       .col-lg-4.col-md-6.ps-lg-0.ps-md-0.mb-lg-0.mb-4.mb-md-0
         .bg21.p-lg-5.p-4.h-100
           img.img-t.img-a.mb-4(src='@/assets/curso/tema5/23.svg')
           h3.mb-4.text-center Detalles de acabado:
-          p.mb-0.text-center especifica procesos adicionales como lavado, planchado, etiquetado y empaquetado, garantizando la presentación y calidad final del producto.
+          p.mb-0.text-center Especifica procesos adicionales como lavado, planchado, etiquetado y empaquetado, garantizando la presentación y calidad final del producto.
 
     .sub.p-2.mb-5(data-aos="fade-left")
       h4.mb-0.text-white.ps-3.pe-3 Dentro del proceso de fabricación, existen diferentes tipos de fichas técnicas especializadas
