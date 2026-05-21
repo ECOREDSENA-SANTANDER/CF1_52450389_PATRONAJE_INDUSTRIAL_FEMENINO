@@ -84,7 +84,7 @@
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Morfología
 
-    p.mb-5(data-aos="fade-right") La morfología del cuerpo humano hace referencia a la forma y estructura del cuerpo a partir de la relación y disposición de sus partes, esta rama resulta esencial en otras áreas y disciplinas como la anatomía, y fisiología.  
+    p.mb-4(data-aos="fade-right") La morfología del cuerpo humano hace referencia a la forma y estructura del cuerpo a partir de la relación y disposición de sus partes, esta rama resulta esencial en otras áreas y disciplinas como la anatomía, y fisiología.  
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -98,7 +98,7 @@
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Ergonomía
 
-    p.mb-5(data-aos="fade-left") La ergonomía se reconoce como una disciplina científica orientada al estudio de las interacciones entre las personas y los elementos que conforman un sistema (International Ergonomics Association, 2000). Su aplicación se sustenta en teorías, principios y métodos cuyo propósito es favorecer el bienestar, la seguridad y la eficiencia en las actividades cotidianas, mediante la adecuación de productos y entornos a las características humanas.
+    p.mb-4(data-aos="fade-left") La ergonomía se reconoce como una disciplina científica orientada al estudio de las interacciones entre las personas y los elementos que conforman un sistema (International Ergonomics Association, 2000). Su aplicación se sustenta en teorías, principios y métodos cuyo propósito es favorecer el bienestar, la seguridad y la eficiencia en las actividades cotidianas, mediante la adecuación de productos y entornos a las características humanas.
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-4.d-none.d-lg-block
@@ -108,7 +108,7 @@
           p.mb-0.mx-lg-0 En el campo del diseño y la construcción de prendas de vestir, la ergonomía se vincula con el nivel de confort, funcionalidad y adaptabilidad que el vestuario puede ofrecer al cuerpo durante el desarrollo de las actividades diarias. Este enfoque busca facilitar el desempeño corporal sin restricciones, así como prevenir molestias o afecciones derivadas de un ajuste inadecuado o de soluciones constructivas que limiten el movimiento. Por ejemplo, una prenda inferior que restrinja la flexión de la rodilla puede generar incomodidad o sobrecarga articular, lo que evidencia la necesidad de considerar rangos de movilidad desde el patronaje y la confección.
         p.mb-0.mx-lg-4 En este sentido, uno de los propósitos del diseño de moda consiste en proyectar modelos de prendas con criterios ergonómicos, integrando procesos de confección coherentes y la selección pertinente de materiales, los cuales constituyen un factor estratégico para garantizar desempeño, durabilidad y confort en el uso.
     
-    p.mb-5(data-aos="fade-left") En síntesis, la relación entre los conceptos asociados a la estructura corporal puede organizarse de la siguiente manera:
+    p.mb-4(data-aos="fade-left") En síntesis, la relación entre los conceptos asociados a la estructura corporal puede organizarse de la siguiente manera:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
@@ -169,7 +169,7 @@
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Prendas superiores
     
-    p.mb-5(data-aos="fade-left") Se asocian con los segmentos correspondientes a la zona superior del cuerpo y su adaptación funcional.
+    p.mb-4(data-aos="fade-left") Se asocian con los segmentos correspondientes a la zona superior del cuerpo y su adaptación funcional.
 
     .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-right")
       .col-lg-4.col-md-6.pe-lg-0.pe-md-0.mb-lg-0.mb-4.mb-md-4
@@ -192,7 +192,7 @@
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Prendas inferiores
     
-    p.mb-5(data-aos="fade-right") Se relacionan con los segmentos correspondientes a la zona inferior del cuerpo y con los requerimientos de movilidad:
+    p.mb-4(data-aos="fade-right") Se relacionan con los segmentos correspondientes a la zona inferior del cuerpo y con los requerimientos de movilidad:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-9

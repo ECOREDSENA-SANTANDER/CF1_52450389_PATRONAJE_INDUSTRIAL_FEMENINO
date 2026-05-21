@@ -71,7 +71,7 @@
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Proporciones corporales
 
-    p.mb-5(data-aos="fade-left") La proporción corporal hace referencia a la relación matemática y armoniosa entre las partes del cuerpo humano (Esparza, 1993). Esta proporción está dada en todas las etapas del desarrollo del ser humano, desde su nacimiento hasta la vejez.
+    p.mb-4(data-aos="fade-left") La proporción corporal hace referencia a la relación matemática y armoniosa entre las partes del cuerpo humano (Esparza, 1993). Esta proporción está dada en todas las etapas del desarrollo del ser humano, desde su nacimiento hasta la vejez.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10

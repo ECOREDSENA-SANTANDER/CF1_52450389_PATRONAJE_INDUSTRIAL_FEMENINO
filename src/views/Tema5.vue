@@ -110,12 +110,12 @@
         img.mb-0(src='@/assets/curso/tema5/5.png' alt='AvatarTop')
         .bg14.p-4
           h3.mb-3 Hilo
-          p.mb-0 se entiende como la agrupación de fibras textiles, continuas o discontinuas, que se integran mediante torsión hasta alcanzar una longitud suficiente para su utilización en la fabricación de estructuras textiles. Esta conformación permite obtener un elemento resistente y uniforme, apto para procesos posteriores de tejido.
+          p.mb-0 Se entiende como la agrupación de fibras textiles, continuas o discontinuas, que se integran mediante torsión hasta alcanzar una longitud suficiente para su utilización en la fabricación de estructuras textiles. Esta conformación permite obtener un elemento resistente y uniforme, apto para procesos posteriores de tejido.
       .col-lg-6
         img.mb-0(src='@/assets/curso/tema5/6.png' alt='AvatarTop')
         .bg15.p-4
           h3.mb-3.text-white Hilatura
-          p.mb-0.text-white corresponde al proceso técnico mediante el cual los filamentos o fibras se transforman y organizan en hebras continuas, preparadas para la construcción de hilos y, posteriormente, de tejidos. Este procedimiento incide de manera directa en propiedades como la resistencia, la regularidad y el desempeño funcional del material en su uso final.
+          p.mb-0.text-white Corresponde al proceso técnico mediante el cual los filamentos o fibras se transforman y organizan en hebras continuas, preparadas para la construcción de hilos y, posteriormente, de tejidos. Este procedimiento incide de manera directa en propiedades como la resistencia, la regularidad y el desempeño funcional del material en su uso final.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10
@@ -124,7 +124,7 @@
           | Hilaturas
         img.img-t.img-a(src='@/assets/curso/tema5/7.png' alt='Conjunto de ovillos de fibra textil natural organizados como materia prima para procesos de tejido y elaboración de productos artesanales.')
           
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-8
         .titulo.mb-5
           img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
@@ -212,8 +212,6 @@
             p.mb-0 Para profundizar más en relación a cómo se caracterizan, se invita al aprendiz a seguir el siguiente llamado a la acción.
     .d-none
       img(src='@/assets/curso/tema5/t5.png' alt='')
-
-    h4.mb-4(data-aos="fade-right") Caracterización de los textiles
 
     p.mb-4(data-aos="fade-left") Se invita a consultar el video para conocer las características, usos y aplicaciones de los textiles en la creación de prendas, una base clave para tomar decisiones acertadas en diseño y confección.
     

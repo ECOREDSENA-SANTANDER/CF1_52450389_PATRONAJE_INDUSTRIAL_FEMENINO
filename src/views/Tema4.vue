@@ -16,7 +16,7 @@
           .bloque-texto-g__texto.p-lg-5.p-md-4.p-4
             p.mb-0 Dentro del diseño de modas, la moda se comprende como un fenómeno social y cultural que trasciende la noción de un conjunto aislado de prendas, en la medida en que expresa formas de identidad, pertenencia y contexto. Desde esta perspectiva, se plantea que la moda no se limita a la presencia de tendencias o elementos materiales, sino que funciona como un entramado construido socialmente a partir de normas y acuerdos sobre lo que se considera pertinente o aceptado en determinados entornos (Kawamura, 2005).
 
-    p.mb-5(data-aos="fade-left") A partir de este enfoque, el sector reconoce la moda como un sistema articulado, razón por la cual distintos aportes teóricos emplean la denominación sistema moda para describir su funcionamiento integral.
+    p.mb-4(data-aos="fade-left") A partir de este enfoque, el sector reconoce la moda como un sistema articulado, razón por la cual distintos aportes teóricos emplean la denominación sistema moda para describir su funcionamiento integral.
 
     .cajon.color-secundario.p-4.p-lg-5(data-aos="fade-right")
       p.mb-0 #[b Sistema moda:] se concibe como un conjunto interrelacionado que abarca no solo las prendas de vestir, sino también accesorios, complementos y calzado, además de procesos creativos, productivos y de circulación que se transforman de acuerdo con dinámicas culturales, tecnológicas y de mercado. Esta condición sistémica explica su capacidad de adaptación continua frente a cambios en hábitos de uso, contextos sociales y variaciones en las preferencias colectivas.
@@ -29,7 +29,7 @@
       .col-lg-12
         img(src='@/assets/curso/tema4/2.png', alt='Texto que describa la imagen')
 
-    p.mb-5(data-aos="fade-right") La organización de los universos de vestuario permite relacionar el propósito de uso de la prenda con sus características funcionales, formales y contextuales. Esta clasificación facilita la toma de decisiones en procesos de diseño, patronaje y selección de materiales, al considerar las condiciones en las que la prenda será utilizada.
+    p.mb-4(data-aos="fade-right") La organización de los universos de vestuario permite relacionar el propósito de uso de la prenda con sus características funcionales, formales y contextuales. Esta clasificación facilita la toma de decisiones en procesos de diseño, patronaje y selección de materiales, al considerar las condiciones en las que la prenda será utilizada.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -131,7 +131,7 @@
     
     h4.mb-4 Gamas de mercado - universos de vestuarios - ocasiones de uso
     
-    p.mb-5 Se invita a consultar el video para comprender cómo el vestuario se adapta a diferentes contextos, estilos y funciones, según las ocasiones de uso y las necesidades del mercado. 
+    p.mb-4 Se invita a consultar el video para comprender cómo el vestuario se adapta a diferentes contextos, estilos y funciones, según las ocasiones de uso y las necesidades del mercado. 
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")           
       .col-lg-12
@@ -145,7 +145,7 @@
     #t_4_2.titulo-segundo.mb-5
       h2 4.2 Gamas de mercados
 
-    p.mb-5(data-aos="fade-left") Las gamas de mercado se clasifican de acuerdo a líneas de mercado dentro del sector e industria de la moda, en la siguiente figura se presentan las principales categorías y su relación dentro del mercado.
+    p.mb-4(data-aos="fade-left") Las gamas de mercado se clasifican de acuerdo a líneas de mercado dentro del sector e industria de la moda, en la siguiente figura se presentan las principales categorías y su relación dentro del mercado.
 
     .row.justify-content-center.align-items-center.mb-2(data-aos="fade-right")
       .col-lg-10
