@@ -11,13 +11,13 @@
       .col-lg-12
         .bloque-texto-g.color-primario.p-3.p-lg-5.p-md-4
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema3/1.png')})`}", alt='Imagen decorativa.'
+            :style="{'background-image': `url(${require('@/assets/curso/tema3/1.png')})`}"
           )
           .bloque-texto-g__texto.p-lg-5.p-md-4.p-4
             p.mb-0 Con base en el análisis previo y en la correcta toma de medidas, este apartado aborda el procedimiento para la construcción del cuadro de tallas y su aplicabilidad dentro de los procesos técnicos de patronaje, en tanto herramienta que organiza y estandariza la información corporal necesaria para el desarrollo de patrones.
 
     .titulo.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/sub.svg')")
       h3.mb-0 Proporción y canon
 
     p.mb-5(data-aos="fade-right") La relación entre proporción y canon se vincula con la manera en que se estudia la correspondencia entre las partes del cuerpo y su altura total, tradicionalmente expresada mediante la referencia de cuántas veces la longitud de la cabeza se integra en la estatura corporal. Para su comprensión, se precisan los siguientes conceptos:
@@ -25,7 +25,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         .bgp.p-4
-          img.d-none.d-lg-block(src='@/assets/curso/tema3/2.svg', alt='Texto que describa la imagen')
+          img.d-none.d-lg-block(src='@/assets/curso/tema3/2.svg')
           .tarjeta.bg-white.p-4.h-100
             TarjetaAudio.color-acento-botones.mb-3(
             texto="Proporción y canon"
@@ -46,7 +46,7 @@
                 p.mb-0 Hace referencia a la relación de correspondencia, equilibrio y coherencia existente entre las partes que conforman un todo. Este principio se aplica en campos como el arte, el diseño de vestuario, la arquitectura y otras disciplinas proyectuales, donde la armonía estructural resulta determinante.
           
     .titulo.mb-5(data-aos="fade-right")
-      img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/sub.svg')")
       h3.mb-0 Importancia de la proporción en el diseño
 
     p.mb-4(data-aos="fade-left") La aplicación del principio de proporcionalidad en el diseño de prendas permite establecer relaciones coherentes entre los diferentes componentes de un modelo y la configuración corporal de la persona usuaria. Este criterio contribuye a lograr equilibrio estructural, funcionalidad y adecuada distribución de volúmenes, favoreciendo que la prenda responda de manera consistente a las características físicas y a los requerimientos de uso.
@@ -68,7 +68,7 @@
           img.img-t.img-a.my-lg-4.mb-lg-5(src='@/assets/curso/tema3/4.svg' alt='Esquema proporcional del cuerpo humano inscrito en un círculo y un cuadrado, con extremidades extendidas para establecer relaciones de medida entre altura, envergadura y distribución de segmentos corporales.')
       
     .titulo.mb-5(data-aos="fade-right")
-      img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/sub.svg')")
       h3.mb-0 Proporciones corporales
 
     p.mb-4(data-aos="fade-left") La proporción corporal hace referencia a la relación matemática y armoniosa entre las partes del cuerpo humano (Esparza, 1993). Esta proporción está dada en todas las etapas del desarrollo del ser humano, desde su nacimiento hasta la vejez.
@@ -88,7 +88,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-0 Conozca sobre cuadro de tallas y deducción de medidas
+              p.mb-0 Conozca sobre cuadro de tallas y deducción de medidas
             .col-sm-auto.pe-lg-4
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/2_Anexo_2_Analisis_de_tallas_y_medidas.pdf')" target="_blank")
                 span Descargar 

@@ -11,7 +11,7 @@
       .col-lg-12
         .bloque-texto-g.color-acento-contenido.p-3.p-lg-5.p-md-4
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema4/1.png')})`}", alt='Imagen decorativa.'
+            :style="{'background-image': `url(${require('@/assets/curso/tema4/1.png')})`}"
           )
           .bloque-texto-g__texto.p-lg-5.p-md-4.p-4
             p.mb-0 Dentro del diseño de modas, la moda se comprende como un fenómeno social y cultural que trasciende la noción de un conjunto aislado de prendas, en la medida en que expresa formas de identidad, pertenencia y contexto. Desde esta perspectiva, se plantea que la moda no se limita a la presencia de tendencias o elementos materiales, sino que funciona como un entramado construido socialmente a partir de normas y acuerdos sobre lo que se considera pertinente o aceptado en determinados entornos (Kawamura, 2005).
@@ -27,7 +27,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
-        img(src='@/assets/curso/tema4/2.png', alt='Texto que describa la imagen')
+        img(src='@/assets/curso/tema4/2.png')
 
     p.mb-4(data-aos="fade-right") La organización de los universos de vestuario permite relacionar el propósito de uso de la prenda con sus características funcionales, formales y contextuales. Esta clasificación facilita la toma de decisiones en procesos de diseño, patronaje y selección de materiales, al considerar las condiciones en las que la prenda será utilizada.
 
@@ -115,20 +115,6 @@
         .bg2.he41.p-4
           img.img-t.img-a(src='@/assets/curso/tema4/6.png' alt='Conjunto casual compuesto por prenda superior de manga amplia, pantalón holgado, bolso, accesorios y calzado deportivo, organizado como atuendo de uso cotidiano.')
       
-    //.tarjeta.color-primario.des.p-4.mb-0(data-aos="fade-right")
-      .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-1
-          img.img-a.img-t.mx-lg-2(src="@/assets/curso/tema4/7.svg")
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              h4.mb-3 Gamas de mercado - universos de vestuarios - ocasiones de uso. 
-              p.mb-0 Se invita a consultar el video para comprender cómo el vestuario se adapta a diferentes contextos, estilos y funciones, según las ocasiones de uso y las necesidades del mercado. 
-            .col-sm-auto.pe-lg-4
-              a.boton.color-acento-botones(href='https://www.youtube.com/watch?v=VsTacEciP3k' target="_blank")
-                span Ir al sitio
-                i.fas.fa-circle-play
-    
     h4.mb-4 Gamas de mercado - universos de vestuarios - ocasiones de uso
     
     p.mb-4 Se invita a consultar el video para comprender cómo el vestuario se adapta a diferentes contextos, estilos y funciones, según las ocasiones de uso y las necesidades del mercado. 
@@ -138,7 +124,7 @@
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/VsTacEciP3k?si=kvUBc12OJRFH842I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Gamas de mercado- Universos de vestuarios-Ocasiones de uso
+        figcaption Video. Gamas de mercado - universos de vestuarios - ocasiones de uso
 
 
     separador
@@ -157,10 +143,10 @@
         .col-lg-7
           img.img-a.img-t(src='@/assets/curso/tema4/9.svg' alt='Esquema jerárquico del sistema de la moda organizado en forma de pirámide, que clasifica desde alta costura y lujo hasta mercado masivo y moda económica según nivel de exclusividad y producción.')
         .col-lg-5.d-none.d-lg-block
-          img.img-t.img-a(src='@/assets/curso/tema4/8.png' alt='Esquema jerárquico del sistema de la moda organizado en forma de pirámide, que clasifica desde alta costura y lujo hasta mercado masivo y moda económica según nivel de exclusividad y producción.')
+          img.img-t.img-a(src='@/assets/curso/tema4/8.png')
           
     .titulo.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/sub.svg')")
       h3.mb-0 Tipología de prendas femeninas
 
     p.mb-5(data-aos="fade-right") Las tipologías de las prendas se clasifican en función de la estructura corporal. Por esta razón, para completar la etapa de conceptualización, resulta necesario realizar una clasificación que permita identificar las partes de las prendas según la arquitectura del cuerpo. En este sentido, se presenta el siguiente video.
@@ -174,7 +160,7 @@
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/leHGYnfUxGk?si=DpWVCWWLS-yiNTHG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-        figcaption Video. CATEGORÍA DE PRENDAS - TIPOLOGÍAS - BITÁCORA DE FORMAS
+        figcaption Video. Categoría de prendas - tipologías - bitácora de formas
 
 
 </template>

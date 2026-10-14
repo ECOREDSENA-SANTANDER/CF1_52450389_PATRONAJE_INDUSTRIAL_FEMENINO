@@ -10,11 +10,11 @@
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-5.d-none.d-lg-block
-        img(src='@/assets/curso/intro/1.png' alt='AvatarTop')
+        img(src='@/assets/curso/intro/1.png')
       .col-lg-7
         .row.justify-content-center.align-items.mb-3
           .col-lg-2.col-md-2.col-5.mb-lg-0.mb-4
-            img.img-t.img-a.my-lg-1.my-md-1.my-0(src='@/assets/curso/intro/2.svg' alt='AvatarTop')
+            img.img-t.img-a.my-lg-1.my-md-1.my-0(src='@/assets/curso/intro/2.svg')
           .col-lg-10.col-md-10.mb-0
             p.mb-0 El patronaje industrial femenino constituye un proceso técnico fundamental para la materialización precisa de las prendas, al permitir convertir una propuesta de diseño en estructuras bidimensionales listas para su producción. Este procedimiento se basa en la traducción de la información proveniente de la figura humana en tres dimensiones hacia planos técnicos denominados patrones básicos, lo que exige una comprensión rigurosa de la configuración corporal para responder con exactitud a los requerimientos de ajuste, funcionalidad y uso.
         p.mb-0 En este contexto se abordará el componente formativo #[b “Estructura corporal y sistema de medidas”], el cual parte de los principios de la antropometría y los articula con nociones de biomecánica, morfología y ergonomía, con el fin de analizar el cuerpo femenino desde su organización y segmentación funcional. Este análisis conduce a la aplicación de un sistema técnico de medición cuya información resulta indispensable para la construcción de cuadros de tallas y la estandarización de procesos dentro del entorno productivo.

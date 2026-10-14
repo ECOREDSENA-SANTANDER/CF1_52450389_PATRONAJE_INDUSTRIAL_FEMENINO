@@ -11,7 +11,7 @@
       .col-lg-12
         .bloque-texto-g.color-acento-botones.p-3.p-lg-5.p-md-4
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema2/1.png')})`}", alt='Imagen decorativa.'
+            :style="{'background-image': `url(${require('@/assets/curso/tema2/1.png')})`}"
           )
           .bloque-texto-g__texto.p-lg-5.p-md-4.p-4
             p.mb-0 El análisis de medidas implica organizar y sistematizar los datos obtenidos del cuerpo humano, ya que esta información orienta de manera directa el desarrollo técnico del patronaje y la construcción de la moldería. En este sentido, resulta necesario disponer de un sistema de medidas estructurado que permita identificar, ordenar y clasificar cada registro según su función dentro del proceso.
@@ -19,16 +19,16 @@
     p.mb-5(data-aos="fade-left") La correcta interpretación de estas medidas facilita su aplicación en la elaboración de patrones básicos, al establecer relaciones proporcionales entre los distintos segmentos corporales y los requerimientos de ajuste, holgura y funcionalidad que exige la prenda. De este modo, la clasificación técnica de las medidas se convierte en un soporte fundamental para garantizar coherencia entre la estructura corporal y la solución constructiva propuesta.
 
     .titulo.mb-5(data-aos="fade-right")
-      img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/sub.svg')")
       h3.mb-0 Sistemas de medidas – clasificación
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-5.d-none.d-lg-block
-        img(src='@/assets/curso/tema2/2.png' alt='AvatarTop')
+        img(src='@/assets/curso/tema2/2.png')
       .col-lg-7
         .row.justify-content-center.align-items.mb-3
           .col-lg-2.col-md-2.col-5.mb-lg-0.mb-4
-            img.img-t.img-a.my-lg-1.my-md-1.my-0(src='@/assets/curso/tema2/3.svg' alt='AvatarTop')
+            img.img-t.img-a.my-lg-1.my-md-1.my-0(src='@/assets/curso/tema2/3.svg')
           .col-lg-10.col-md-10.mb-0
             p.mb-0 En el ámbito del patronaje, el sistema de medidas corresponde al conjunto organizado de procedimientos utilizados para obtener, registrar y aplicar los datos derivados de la medición corporal. La precisión en este proceso resulta determinante para la construcción de patrones de prendas de vestir, ya que de la calidad del registro depende el nivel de ajuste, adaptación y funcionalidad que la prenda alcance durante su uso.
         p.mb-0 El proceso de medición influye directamente en la forma en que la prenda se adapta al cuerpo, considerando relaciones de proporcionalidad, confort y desempeño funcional, con el propósito de lograr coherencia entre la estructura corporal y la solución constructiva desarrollada.
@@ -40,7 +40,7 @@
           p.mb-4.le #[b a) Sistema inglés (toma como unidad base la pulgada):] se utiliza de forma tradicional en procesos de patronaje en contextos productivos de países como Estados Unidos, Inglaterra y Australia.
           p.mb-0.le #[b b) Sistema internacional o métrico decimal (toma como unidad base el metro):] se emplea de manera predominante en la mayoría de países de América Latina y en diversos entornos industriales y educativos vinculados a la confección.
       .col-lg-4.d-none.d-lg-block
-        img(src='@/assets/curso/tema2/4.png' alt='AvatarTop')
+        img(src='@/assets/curso/tema2/4.png')
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
