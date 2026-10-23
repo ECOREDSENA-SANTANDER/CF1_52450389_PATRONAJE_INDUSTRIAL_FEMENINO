@@ -90,7 +90,7 @@
             .col.mb-3.mb-sm-0
               p.mb-0 Conozca sobre cuadro de tallas y deducción de medidas
             .col-sm-auto.pe-lg-4
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/2_Anexo_2_Analisis_de_tallas_y_medidas.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2_Analisis_de_tallas_y_medidas.pdf')" target="_blank")
                 span Descargar 
                 i.fas.fa-file-download
 

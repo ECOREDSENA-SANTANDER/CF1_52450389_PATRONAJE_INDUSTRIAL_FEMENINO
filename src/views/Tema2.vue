@@ -68,7 +68,7 @@
               h4.mb-3 Clasificación de las medidas
               p.mb-0 Conozca sobre los sistemas de medidas empleados en la confección de prendas de vestir.
             .col-sm-auto.pe-lg-4
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/1_Anexo_1_Clasificacion_de_las_medidas.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_Clasificacion_de_las_medidas.pdf')" target="_blank")
                 span Descargar 
                 i.fas.fa-file-download
     
